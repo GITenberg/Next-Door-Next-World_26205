@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '31862'
     url: http://www.gutenberg.org/2009/agents/31862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26205#Next-Door-Next-World
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-08-06'
 gutenberg_type: Text
